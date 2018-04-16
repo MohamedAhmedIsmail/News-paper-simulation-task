@@ -1,0 +1,9 @@
+c:\users\mohamedismail\documents\visual studio 2013\Projects\HandsOnSimulation\HandsOnSimulation\bin\Debug\HandsOnSimulation.exe.config
+c:\users\mohamedismail\documents\visual studio 2013\Projects\HandsOnSimulation\HandsOnSimulation\bin\Debug\HandsOnSimulation.exe
+c:\users\mohamedismail\documents\visual studio 2013\Projects\HandsOnSimulation\HandsOnSimulation\bin\Debug\HandsOnSimulation.pdb
+c:\users\mohamedismail\documents\visual studio 2013\Projects\HandsOnSimulation\HandsOnSimulation\obj\Debug\HandsOnSimulation.csprojResolveAssemblyReference.cache
+c:\users\mohamedismail\documents\visual studio 2013\Projects\HandsOnSimulation\HandsOnSimulation\obj\Debug\HandsOnSimulation.Form1.resources
+c:\users\mohamedismail\documents\visual studio 2013\Projects\HandsOnSimulation\HandsOnSimulation\obj\Debug\HandsOnSimulation.Properties.Resources.resources
+c:\users\mohamedismail\documents\visual studio 2013\Projects\HandsOnSimulation\HandsOnSimulation\obj\Debug\HandsOnSimulation.csproj.GenerateResource.Cache
+c:\users\mohamedismail\documents\visual studio 2013\Projects\HandsOnSimulation\HandsOnSimulation\obj\Debug\HandsOnSimulation.exe
+c:\users\mohamedismail\documents\visual studio 2013\Projects\HandsOnSimulation\HandsOnSimulation\obj\Debug\HandsOnSimulation.pdb
